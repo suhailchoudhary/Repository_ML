@@ -20,3 +20,21 @@ Notebook Link : [Click Here](https://colab.research.google.com/drive/18HsJ_XkzEf
 - [Pandas-100](https://github.com/ajcr/100-pandas-puzzles/blob/master/100-pandas-puzzles.ipynb) , Solve using `help(pd)` and `help(pd.function_name)` .
 - Matplotlib : Draw 10 graphs with proper meaning
 - Seaborn : Draw 10 graphs with proper meaning
+
+
+## Assignment No - 4
+
+**Take any Dataset from Kaggle, [data.gov.in](https://www.data.gov.in/), [data.gov](https://data.gov/), etc**  
+Diplay the first 5 rows of the data using pandas. Copy it.
+
+
+Prompt:  
+*This is a sample dataset. My complete data shape is `data.shape`.* 
+> Insert your 5 rows here.
+> 
+> 
+*Give me 100 real world questions based on my data which I can solve using Numpy, Pandas, Matplotlib, Seaborn.*
+
+Now, use that questions and solve in Jupyter notebook using the dataset.  
+
+Reference: ![quest.png](quest.png)
