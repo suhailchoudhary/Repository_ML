@@ -38,3 +38,15 @@ Prompt:
 Now, use that questions and solve in Jupyter notebook using the dataset.  
 
 Reference: ![quest.png](quest.png)
+
+
+## Assignment No - 5
+
+**Implementing Multiple ML Algorithmns**
+- Simple LR, Multiple LR
+- Logistic
+- Decision Tree Regressor, Decision Tree Claassifier
+- Random Forest
+- Naive Bayes
+- SVC
+- XGBoost
