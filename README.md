@@ -50,3 +50,5 @@ Reference: ![quest.png](quest.png)
 - Naive Bayes
 - SVC
 - XGBoost
+
+`Note: Only one colab Notebook per assignment`
