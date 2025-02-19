@@ -1,0 +1,14 @@
+Assignment 1
+Use Case: Predicting Diabetes Risk in Patients
+1. Data
+Sources: EHRs(Elctronic health records of patients), wearable devices, health surveys, insurance records.
+Issues: Missing values, data imbalance, privacy concerns, inconsistent formats, noisy data.
+Types:
+Structured: Age, glucose, BMI.
+Unstructured: Doctor’s notes.
+Time-Series: Blood sugar trends.
+Categorical: Gender, family history.
+Numerical: Blood pressure, insulin levels.
+2. Problem Statement:
+"Develop an ML model to predict diabetes risk based on health parameters,
+enabling early detection and prevention."
